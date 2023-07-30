@@ -1,0 +1,618 @@
+Company,model_name,color_group,Stars,Num_Ratings,Num_Reviews,Ram,Storage,Expandable,processor_category,display_inches,Num_camera,battery_mah,Price
+SAMSUNG,Galaxy F13 ,Blue,4.4,126250,7344,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,3,6000,9699
+POCO,C50 ,Green,4.4,3204,151,2 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.56,1,5000,5749
+POCO,C50 ,Blue,4.4,3204,151,2 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.56,1,5000,5749
+REDMI,10 ,Green,4.3,193536,12428,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,2,6000,9299
+REDMI,10 ,Blue,4.3,193536,12428,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,2,6000,9299
+SAMSUNG,Galaxy F13 ,Green,4.4,126250,7344,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,3,6000,9699
+REDMI,10 ,Black,4.3,193536,12428,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,2,6000,9299
+Infinix,HOT 20 Play ,Green,4.4,10577,614,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,17.32,2,6000,8199
+Infinix,HOT 20 Play ,Black,4.4,10577,614,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,17.32,2,6000,8199
+Infinix,HOT 20 Play ,Other,4.4,10577,614,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,17.32,2,6000,8199
+Infinix,HOT 20 Play ,Blue,4.4,10577,614,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,17.32,2,6000,8199
+SAMSUNG,Galaxy F13 ,Other,4.4,126250,7344,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,3,6000,9699
+SAMSUNG,Galaxy F23 5G ,Green,4.3,162545,12915,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,14999
+REDMI,10 ,Black,4.3,193536,12428,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,2,6000,9299
+SAMSUNG,Galaxy F23 5G ,Blue,4.3,162545,12915,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,14999
+POCO,M4 Pro 5G ,Yellow,4.3,41988,3602,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.76,2,5000,12999
+MOTOROLA,g52 ,Black,4.2,11183,1342,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,10999
+MOTOROLA,g31 ,Blue,4.1,13922,1442,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,3,5000,10999
+SAMSUNG,Galaxy F23 5G ,Other,4.3,162545,12915,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,14999
+MOTOROLA,g52 ,White,4.2,29286,3424,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,12999
+REDMI,10 ,Orange,4.3,193536,12428,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,2,6000,9299
+MOTOROLA,g52 ,Black,4.2,29286,3424,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,12999
+MOTOROLA,e13 ,Green,4.1,3542,390,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,7749
+MOTOROLA,e13 ,White,4.1,3542,390,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,7749
+Infinix,Hot 12 ,Blue,4.3,19904,1412,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Helio processor,17.32,3,6000,8499
+Infinix,Hot 12 ,Other,4.3,19904,1412,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Helio processor,17.32,3,6000,8499
+MOTOROLA,g31 ,Grey,4.2,35126,3935,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,3,5000,9499
+Infinix,NOTE 12i ,White,4.3,1735,218,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.02,3,5000,9999
+POCO,X4 Pro 5G ,Blue,4.2,76042,7634,6 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,5000,15999
+POCO,M4 5G ,Black,4.2,56668,4315,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,2,5000,11999
+MOTOROLA,G62 5G ,Blue,4.1,5605,562,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,3,5000,16499
+Infinix,Smart 6 HD ,Black,4.4,24477,1370,2 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.76,1,5000,5799
+Infinix,Smart 6 HD ,Blue,4.4,24477,1370,2 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.76,1,5000,5799
+Infinix,Smart 6 HD ,Other,4.4,24477,1370,2 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.76,1,5000,5799
+Infinix,SMART 7 ,Black,4.3,1624,91,4 GB RAM ,64 GB ROM,Expandable Upto 2 TB,Unisoc processor,16.76,2,6000,7499
+Infinix,SMART 7 ,Blue,4.3,1624,91,4 GB RAM ,64 GB ROM,Expandable Upto 2 TB,Unisoc processor,16.76,2,6000,7499
+MOTOROLA,G32 ,Other,4.2,29660,2849,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,3,5000,10499
+MOTOROLA,g22 ,Black,3.8,30286,3530,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,4,5000,9499
+MOTOROLA,G32 ,Silver,4.2,29660,2849,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,3,5000,10499
+MOTOROLA,G62 5G ,Other,4.1,5605,562,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,3,5000,16999
+Infinix,Hot 12 ,Blue,4.3,19904,1412,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Helio processor,17.32,3,6000,8499
+Infinix,Hot 12 ,Black,4.3,19904,1412,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Helio processor,17.32,3,6000,8499
+MOTOROLA,e13 ,Black,4.1,3542,390,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,7749
+POCO,M4 5G ,Black,4.2,28462,2197,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,2,5000,13999
+POCO,X4 Pro 5G ,Black,4.2,18138,1834,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,5000,18499
+SAMSUNG,Galaxy F04 ,Other,4.5,3550,134,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,2,5000,8499
+POCO,M4 5G ,Blue,4.2,56668,4315,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,2,5000,11999
+POCO,M4 Pro 5G ,Blue,4.2,13556,1097,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.76,2,5000,15999
+POCO,M4 Pro 5G ,Yellow,4.3,49481,4283,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.76,2,5000,14999
+MOTOROLA,e40 ,Other,4.2,72662,6836,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,3,5000,10998
+MOTOROLA,g31 ,Blue,4.2,35126,3935,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,3,5000,9499
+Infinix,NOTE 12i ,Blue,4.3,1735,218,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.02,3,5000,9999
+SAMSUNG,Galaxy F13 ,Blue,4.4,126250,7344,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,3,6000,10699
+SAMSUNG,Galaxy F04 ,Green,4.5,3550,134,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,2,5000,8499
+vivo,T1 44W ,Other,4.5,91604,6253,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.36,3,5000,14499
+vivo,T1 44W ,Other,4.5,91604,6253,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.36,3,5000,14499
+Google,Pixel 6a ,Other,4.3,30999,3863,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Google Tensor processor,15.6,2,4410,28999
+SAMSUNG,Galaxy F13 ,Green,4.4,126250,7344,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,3,6000,10699
+POCO,M4 5G ,Blue,4.2,28462,2197,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,2,5000,13999
+realme,C35 ,Black,4.4,171279,9859,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.76,3,5000,10999
+REDMI,10 ,Blue,4.2,25936,1871,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,2,6000,11999
+REDMI,10 ,Black,4.2,25936,1871,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,2,6000,11999
+POCO,X4 Pro 5G ,Blue,4.2,18138,1834,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,5000,18499
+Realme,C30 - Locked with Airtel Prepaid ,Black,4.3,87820,4718,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,5549
+Infinix,Hot 12 Pro ,Blue,4.2,7869,485,6 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.76,2,5000,8999
+POCO,X4 Pro 5G ,Yellow,4.2,76042,7634,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,5000,16999
+vivo,T1X ,Blue,4.5,81347,4594,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,2,5000,11999
+vivo,T1X ,Black,4.5,81347,4594,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,2,5000,12999
+vivo,T1X ,Black,4.5,81347,4594,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,2,5000,11999
+realme,C35 ,Green,4.4,171279,9859,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.76,3,5000,10999
+POCO,M4 5G ,Yellow,4.2,56668,4315,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,2,5000,11999
+SAMSUNG,Galaxy M33 5G ,Blue,4.3,1196,86,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,6000,18168
+SAMSUNG,Galaxy M33 5G ,Green,4.2,8048,643,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.74,1,6000,16324
+REDMI,Note 10S ,White,4.4,84641,5738,6 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.33,4,5000,12999
+POCO,M4 Pro ,Blue,4.3,154378,13840,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.33,3,5000,13999
+MOTOROLA,g82 5G ,Grey,4.1,4585,564,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,20499
+vivo,T1X ,Blue,4.5,81347,4594,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,2,5000,12999
+OPPO,A17 ,Blue,4.4,2235,94,4 GB RAM ,64 GB ROM,Expandable Upto 2 TB,Mediatek processor,16.66,3,5000,12499
+POCO,X5 Pro 5G ,Blue,4.4,1868,230,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,5000,22999
+POCO,M4 Pro ,Yellow,4.3,154378,13840,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.33,3,5000,13999
+Infinix,NOTE 12i ,Black,4.3,1735,218,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.02,3,5000,9999
+MOTOROLA,g72 ,Blue,4.1,10942,1515,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.64,3,5000,15999
+realme,C35 ,Green,4.4,171279,9859,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.76,3,5000,11999
+realme,C35 ,Black,4.4,171279,9859,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.76,3,5000,11999
+OPPO,A17k ,Yellow,4.5,1242,32,3 GB RAM ,64 GB ROM,Expandable Upto 2 TB,Mediatek processor,16.66,1,5000,9499
+Infinix,Hot 20 5G ,Blue,4.1,1305,122,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Other processor,16.76,2,5000,13499
+Infinix,Hot 20 5G ,Green,4.1,1305,122,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Other processor,16.76,2,5000,13499
+OPPO,A17k ,Blue,4.5,1242,32,3 GB RAM ,64 GB ROM,Expandable Upto 2 TB,Mediatek processor,16.66,1,5000,9499
+REDMI,10A ,Grey,4.1,1959,131,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,7894
+REDMI,10A ,Blue,4.1,1959,131,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,8190
+REDMI,10A ,Black,4.1,1959,131,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,7890
+Google,Pixel 6a ,Black,4.3,30999,3863,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Google Tensor processor,15.6,2,4410,28999
+POCO,C31 ,Other,4.3,207547,11775,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,3,5000,9099
+POCO,M4 Pro ,Blue,4.3,154378,13840,6 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.33,3,5000,12999
+realme,C33 ,Other,4.4,20368,855,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,2,5000,8999
+POCO,X5 Pro 5G ,Blue,4.4,2043,250,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,5000,24999
+realme,C30 ,Green,4.3,87820,4718,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,5999
+realme,C30 ,Blue,4.3,87820,4718,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,5999
+realme,C33 ,Yellow,4.4,20368,855,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,2,5000,8999
+realme,C33 ,Blue,4.4,20368,855,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,2,5000,8999
+realme,C33 ,Yellow,4.4,60850,2656,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,2,5000,9999
+realme,C33 ,Other,4.4,60850,2656,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,2,5000,9999
+vivo,T1 Pro 5G ,Blue,4.4,8169,783,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.36,3,4700,23999
+Infinix,Hot 12 Pro ,Green,4.2,7869,485,6 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.76,2,5000,8999
+REDMI,9i Sport ,Black,4.3,241457,13909,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,1,5000,7699
+POCO,X5 Pro 5G ,Black,4.4,1868,230,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,5000,22999
+REDMI,A1 ,Blue,4.3,4657,231,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.56,1,5000,6656
+POCO,C31 ,Blue,4.3,207547,11775,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,3,5000,9099
+MOTOROLA,e32 ,Blue,4.0,1258,114,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,2,5000,8999
+realme,C30 ,Black,4.1,40684,2630,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,6999
+OnePlus,Nord CE 2 Lite 5G ,Black,4.4,49313,3791,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.74,1,5000,19550
+realme,9i 5G ,Black,4.5,41927,1982,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.76,3,5000,14999
+REDMI,A1 ,Black,4.3,4657,231,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.56,1,5000,6567
+SAMSUNG,Galaxy M04 ,Blue,4.2,508,39,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,2,5000,8916
+realme,C33 ,Blue,4.4,60850,2656,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,2,5000,9999
+Infinix,Zero 5G 2023 ,Black,4.1,190,29,8 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,17.22,3,5000,16999
+OPPO,A17 ,Black,4.4,2235,94,4 GB RAM ,64 GB ROM,Expandable Upto 2 TB,Mediatek processor,16.66,3,5000,12499
+vivo,T1 Pro 5G ,Black,4.4,16849,1746,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.36,3,4700,24999
+POCO,C55 ,Black,4.4,888,42,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.04,1,5000,10999
+POCO,M4 Pro ,Black,4.3,14540,1262,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.33,3,5000,14999
+REDMI,Note 11 ,White,4.3,1060,89,6 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,1,5000,13400
+POCO,C55 ,Blue,4.4,888,42,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.04,1,5000,10999
+realme,9i 5G ,Yellow,4.5,41927,1982,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.76,3,5000,14999
+realme,Narzo 50 ,Blue,4.5,16021,1034,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.76,3,5000,12499
+POCO,C55 ,Green,4.4,888,42,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.04,1,5000,10999
+realme,C30s ,Black,4.5,4883,171,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,6999
+realme,C30s ,Blue,4.5,4883,171,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,6999
+vivo,Y35 ,Black,4.4,1831,126,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,3,5000,18499
+Infinix,Hot 12 Pro ,White,4.2,7869,485,6 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.76,2,5000,8999
+Infinix,Hot 12 Pro ,Black,4.2,7869,485,6 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.76,2,5000,8999
+realme,Narzo 50i Prime ,Blue,4.2,87,6,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,8669
+POCO,C55 ,Blue,4.3,1189,66,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.04,1,5000,8999
+OPPO,F19 Pro+ 5G ,Silver,4.4,28926,2965,8 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.33,4,4310,17990
+OPPO,F19 Pro+ 5G ,Black,4.4,28926,2965,8 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.33,4,4310,17990
+realme,C11 2021 ,Grey,4.4,234630,10133,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Other processor,16.51,1,5000,7499
+realme,C11 2021 ,Blue,4.4,234630,10133,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Other processor,16.51,1,5000,7499
+realme,9i 5G ,Blue,4.5,41927,1982,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.76,3,5000,14999
+Nothing,Phone (1) ,Black,4.3,54077,7045,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,2,4500,27999
+vivo,Y01 ,Blue,4.2,1347,81,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,1,5000,7999
+POCO,C55 ,Black,4.3,1189,66,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.04,1,5000,8999
+POCO,M5 ,Black,4.3,1675,108,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,3,5000,12599
+REDMI,10 Power ,Black,4.2,840,43,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,1,6000,12168
+vivo,Y35 ,Yellow,4.4,1831,126,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,3,5000,18499
+Infinix,HOT 20 5G ,Blue,4.3,3865,310,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Other processor,16.76,2,5000,11499
+Infinix,Note 12 5G ,Other,4.2,16084,1745,6 GB RAM ,64 GB ROM,Expandable Upto 2 TB,Mediatek processor,17.02,3,5000,14099
+REDMI,Note 11 ,Black,4.3,1060,89,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,1,5000,14990
+REDMI,9i Sport ,Green,4.3,241457,13909,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,1,5000,7699
+POCO,M4 5G ,Yellow,4.2,28462,2197,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,2,5000,13999
+OPPO,F19 ,Blue,4.3,25654,1849,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Qualcomm processor,16.33,3,5000,14990
+REDMI,11 Prime 5G ,Silver,4.2,1467,97,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,1,5000,13595
+REDMI,11 Prime 5G ,Black,4.2,272,18,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,1,5000,16438
+Nothing,Phone (1) ,Black,4.3,54077,7045,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,2,4500,26999
+Nothing,Phone (1) ,White,4.3,54077,7045,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,2,4500,28499
+realme,NARZO 50A PRIME ,Blue,3.9,281,17,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,10641
+OPPO,A17 ,Orange,4.4,2235,94,4 GB RAM ,64 GB ROM,Expandable Upto 2 TB,Mediatek processor,16.66,3,5000,12499
+realme,Narzo 50 ,Black,4.5,16021,1034,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.76,3,5000,12380
+realme,Narzo 50 ,Black,4.4,7785,571,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.76,3,5000,15499
+vivo,Y15s ,Green,4.3,3851,284,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,2,5000,9499
+Infinix,Hot 12 Pro ,Blue,4.0,4697,409,8 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.76,2,5000,11499
+MOTOROLA,g82 5G ,White,4.1,4585,564,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,21499
+Micromax,IN 2C ,Silver,4.2,3459,398,3 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.56,1,5000,5999
+REDMI,9i Sport ,Blue,4.3,241457,13909,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,1,5000,7699
+POCO,C31 ,Other,4.3,137097,8673,3 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,3,5000,7999
+vivo,Y56 5G ,Black,4.5,93,2,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.71,2,5000,19999
+MOTOROLA,g72 ,Grey,4.1,10942,1515,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.64,3,5000,15999
+realme,10 ,Black,4.3,1062,73,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,2,5000,16999
+realme,10 ,White,4.4,4176,306,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,2,5000,13999
+realme,10 ,Black,4.4,4176,306,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,2,5000,13999
+vivo,V27 Pro 5G ,Black,4.6,353,60,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.22,3,4600,39999
+realme,Narzo 50i Prime ,Green,4.2,87,6,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,8698
+Infinix,Hot 12 Pro ,Green,4.0,4697,409,8 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.76,2,5000,11499
+SAMSUNG,GALAXY M13 5G ,Green,4.0,324,17,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.51,1,5000,12583
+POCO,X4 Pro 5G ,Yellow,4.2,76042,7634,6 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,5000,15999
+vivo,Y16 ,Yellow,4.3,1566,92,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,2,5000,9999
+realme,10 Pro+ 5G ,Other,4.5,13214,1298,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.02,3,5000,24999
+Infinix,Note 12 Pro ,Blue,4.2,4253,469,8 GB RAM ,256 GB ROM,Expandable Upto 2 TB,Mediatek processor,17.02,3,5000,14999
+realme,10 Pro+ 5G ,Other,4.5,13214,1298,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.02,3,5000,24999
+realme,10 Pro+ 5G ,Blue,4.5,13214,1298,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.02,3,5000,24999
+OnePlus,Nord CE 2 Lite 5G ,Blue,4.3,4000,353,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.74,1,5000,21998
+realme,C11 2021 ,Blue,4.3,207284,11041,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Other processor,16.51,1,5000,8999
+realme,C11 2021 ,Grey,4.3,207284,11041,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Other processor,16.51,1,5000,8999
+SAMSUNG,Galaxy M33 5G ,Brown,4.3,1196,86,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,6000,18532
+REDMI,Note 12 Pro 5G ,Blue,4.3,10760,1173,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.94,3,5000,24999
+MOTOROLA,e32 ,Black,4.0,1258,114,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,2,5000,8999
+POCO,C55 ,Green,4.3,1189,66,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.04,1,5000,8999
+Infinix,Note 12 ,Blue,4.2,25390,2528,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.02,3,5000,10999
+Infinix,Note 12 ,Black,4.2,25390,2528,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.02,3,5000,10999
+Infinix,Note 12 ,Blue,4.2,12607,1210,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.02,3,5000,12999
+REDMI,10 Power ,Orange,4.2,840,43,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,1,6000,12190
+SAMSUNG,Galaxy A03 Core ,Other,4.0,2861,246,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.51,1,5000,6999
+Infinix,Note 12 Pro 5G ,Other,4.1,20522,2534,8 GB RAM ,128 GB ROM,Expandable Upto 2 TB,Mediatek processor,17.02,3,5000,17199
+Infinix,Note 12 Pro 5G ,Black,4.1,20522,2534,8 GB RAM ,128 GB ROM,Expandable Upto 2 TB,Mediatek processor,17.02,3,5000,17199
+POCO,X5 Pro 5G ,Yellow,4.4,1868,230,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,5000,22999
+realme,9i 5G ,Black,4.3,5635,409,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.76,3,5000,16999
+OPPO,A77s ,Black,4.3,342,28,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.66,2,5000,17999
+Infinix,HOT 20 5G ,Green,4.3,3865,310,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Other processor,16.76,2,5000,11499
+Infinix,Note 12 5G ,Black,4.2,16084,1745,6 GB RAM ,64 GB ROM,Expandable Upto 2 TB,Mediatek processor,17.02,3,5000,14099
+POCO,C31 ,Blue,4.3,137097,8673,3 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,3,5000,7999
+SAMSUNG,Galaxy M33 5G ,Brown,4.2,8048,643,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,6000,16565
+POCO,M5 ,Blue,4.3,3275,248,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,3,5000,10999
+Infinix,Hot 20 5G ,Black,4.1,1305,122,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Other processor,16.76,2,5000,13499
+Realme,C30 - Locked with Airtel Prepaid ,Green,4.3,87673,4705,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,5549
+vivo,Y21 ,Silver,4.3,14652,1094,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,2,5000,12965
+vivo,Y16 ,Yellow,4.3,1207,78,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,2,5000,12499
+MOTOROLA,g22 ,Green,3.8,30286,3530,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,4,5000,10999
+vivo,Y16 ,Black,4.3,1566,92,3 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,2,5000,10999
+POCO,M5 ,Blue,4.3,1675,108,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,3,5000,12599
+OPPO,F19 ,Black,4.3,25654,1849,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Qualcomm processor,16.33,3,5000,14990
+REDMI,Note 11 ,Black,4.2,526,47,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,1,5000,12128
+Tecno,Pova 3 ,Silver,4.3,550,28,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.53,3,7000,11990
+Tecno,Pova 3 ,Black,4.3,550,28,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.53,3,7000,10899
+SAMSUNG,Galaxy A03 Core ,Other,4.0,2861,246,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.51,1,5000,6749
+MOTOROLA,edge 30 ,Green,4.1,8705,1175,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,3,4020,22999
+REDMI,Note 11 SE ,White,4.3,41006,2555,6 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.33,4,5000,11999
+REDMI,10A ,Black,4.2,6907,403,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,9499
+REDMI,10A ,Grey,4.2,6907,403,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,8828
+MOTOROLA,Edge 30 ,Grey,4.1,4677,656,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,3,4020,24999
+OPPO,A77s ,Orange,4.3,342,28,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.66,2,5000,17999
+MOTOROLA,edge 30 ,Grey,4.1,8705,1175,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,3,4020,22999
+OPPO,F19s ,Yellow,4.5,10278,563,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Qualcomm processor,16.33,3,5000,15990
+Infinix,Note 12 Pro ,Grey,4.2,4253,469,8 GB RAM ,256 GB ROM,Expandable Upto 2 TB,Mediatek processor,17.02,3,5000,14999
+REDMI,Note 12 Pro 5G ,Other,4.3,4484,474,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.94,3,5000,27999
+REDMI,Note 12 Pro 5G ,Black,4.3,10760,1173,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.94,3,5000,24999
+realme,Narzo 50 ,Blue,4.4,7785,571,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.76,3,5000,15499
+POCO,M4 Pro 5G ,Blue,4.3,41988,3602,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.76,2,5000,14999
+OPPO,K10 5G ,Black,4.4,63545,4702,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.66,2,5000,16999
+realme,C30s ,Black,4.3,4987,278,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,8499
+realme,C30s ,Blue,4.3,4987,278,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,1,5000,8499
+POCO,M5 ,Yellow,4.3,1675,108,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,3,5000,12599
+realme,10 ,White,4.3,1062,73,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,2,5000,16999
+REDMI,Note 12 Pro+ 5G ,Black,4.3,6165,721,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.94,3,4980,29999
+SAMSUNG,Galaxy A14 5G ,Green,4.2,181,9,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,2,5000,16499
+vivo,Y01 ,Black,4.2,1347,81,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,1,5000,7999
+vivo,Y02 ,Blue,4.3,272,13,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,1,5000,8999
+OPPO,Reno8T 5G ,Yellow,4.3,2963,324,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,3,4800,29999
+realme,10 Pro 5G ,Blue,4.4,6845,544,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.07,2,5000,19999
+Infinix,HOT 20 5G ,Black,4.3,3865,310,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Other processor,16.76,2,5000,11499
+OPPO,Reno8T 5G ,Black,4.3,2963,324,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,3,4800,29999
+Tecno,Camon 19 ,White,4.2,284,26,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.27,2,5000,13989
+IQOO,Z6 44W ,Blue,4.2,958,67,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.36,1,5000,15990
+Tecno,Camon 19 ,Black,4.2,284,26,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.27,2,5000,13895
+Infinix,HOT 12 Play ,Blue,4.3,113057,8289,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,17.32,2,6000,8999
+REDMI,Note 12 5G ,Black,4.2,174,13,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,1,5000,20599
+REDMI,Note 12 5G ,Green,4.1,96,7,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,1,5000,17640
+IQOO,Z6 Lite 5G (Without Charger) ,Green,4.1,707,56,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.97,1,5000,15990
+IQOO,Z6 Lite 5G (Without Charger) ,Other,4.1,707,56,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.97,1,5000,16399
+SAMSUNG,Galaxy M32 Prime Edition ,Blue,4.3,97,10,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.26,1,6000,15500
+Redmi,9A Sport ,Black,4.2,6291,456,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,7490
+vivo,Y22 ,Green,4.3,760,48,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.64,2,5000,14499
+REDMI,Note 11S ,Black,4.2,2358,179,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,1,5000,15990
+SAMSUNG,Galaxy M04 ,Green,4.2,508,39,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,2,5000,9149
+REDMI,Note 12 Pro 5G ,Other,4.3,10760,1173,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.94,3,5000,24999
+SAMSUNG,Galaxy A03 Core ,Other,4.0,2861,246,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.51,1,5000,6768
+Infinix,Kall Z19Pro ,Blue,3.4,221,16,4 GB RAM ,64 GB ROM,Expandable Upto 128 GB,Other processor,16.51,1,5000,8499
+itel,Vision3 ,Blue,4.3,264,18,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,5849
+itel,Vision3 ,Black,4.3,264,18,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,5843
+REDMI,Note 12 Pro 5G ,Blue,4.3,4484,474,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.94,3,5000,27999
+Micromax,IN 2C ,Brown,4.2,3459,398,3 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.56,1,5000,5999
+Infinix,HOT 12 Play ,Black,4.3,113057,8289,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,17.32,2,6000,8999
+Infinix,HOT 12 Play ,Yellow,4.3,113057,8289,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,17.32,2,6000,8999
+SAMSUNG,Galaxy S23 5G ,Other,4.6,439,82,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,15.49,3,3900,79999
+REDMI,Note 12 5G ,Blue,4.2,174,13,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,1,5000,20999
+SAMSUNG,Galaxy A14 5G ,Black,4.2,181,9,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,2,5000,16499
+vivo,V27 Pro 5G ,Blue,4.7,78,6,12 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.22,3,4600,42999
+vivo,V27 Pro 5G ,Blue,4.6,353,60,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.22,3,4600,37999
+vivo,V27 Pro 5G ,Black,4.6,353,60,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.22,3,4600,37999
+POCO,M4 Pro ,Yellow,4.3,154378,13840,6 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.33,3,5000,12999
+MOTOROLA,Edge 30 ,Green,4.1,4677,656,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,3,4020,24999
+realme,C20 ,Grey,4.4,297117,14004,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,1,5000,7499
+REDMI,9 Activ ,Green,4.2,5167,342,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,2,5000,11499
+REDMI,10 Prime ,White,4.2,12900,888,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Helio processor,16.51,4,6000,14999
+REDMI,10A ,Blue,4.2,6907,403,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,9500
+OPPO,K10 5G ,Blue,4.4,63545,4702,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.66,2,5000,25999
+vivo,Y22 ,Green,4.3,736,44,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.64,2,5000,16499
+vivo,T1 5G ,Other,4.3,64691,5115,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Other processor,16.71,3,5000,15990
+itel,A23S ,Black,3.6,102,6,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,12.7,1,3020,4699
+realme,9i 5G ,Yellow,4.3,5635,409,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.76,3,5000,16999
+REDMI,K50i 5G ,Black,4.2,1091,140,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5080,23490
+REDMI,Note 12 Pro 5G ,Black,4.3,4484,474,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.94,3,5000,27999
+IQOO,Z6 44W ,Black,4.2,958,67,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.36,4,5000,16369
+IQOO,Z6 Lite 5G (Without Charger) ,Green,4.2,368,25,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.97,1,5000,14199
+SAMSUNG,Galaxy A23 5G ,Silver,4.3,97,5,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,2,5000,22999
+REDMI,Note 11S ,Blue,4.2,2358,179,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,1,5000,15990
+POCO,X5 Pro 5G ,Yellow,4.4,2009,245,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,5000,24999
+Infinix,HOT 12 Play ,Green,4.3,113016,8282,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,17.32,2,6000,8999
+REDMI,A1+ ,Black,4.1,681,50,2 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.56,1,5000,7499
+Infinix,Smart 6 ,Green,4.3,30592,2093,2 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.76,2,5000,7499
+Infinix,Smart 6 ,Black,4.3,30592,2093,2 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.76,2,5000,7499
+realme,C20 ,Blue,4.4,297095,14004,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,1,5000,7499
+Redmi,9A Sport ,Blue,4.2,6291,456,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,7365
+vivo,Y02 ,Grey,4.3,272,13,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,1,5000,8999
+MOTOROLA,g52 ,White,4.2,11183,1342,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,10999
+MOTOROLA,G40 Fusion ,Other,4.2,56533,6076,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.22,3,6000,16499
+Infinix,Zero 5G 2023 ,Orange,4.1,190,29,8 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,17.22,3,5000,16999
+vivo,Y75 ,Other,4.3,2007,152,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.36,3,4050,19990
+SAMSUNG,Galaxy M04 ,Blue,4.2,508,39,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,0,5000,10278
+realme,10 Pro 5G ,Other,4.4,11122,898,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.07,2,5000,18999
+OPPO,F21 Pro ,Orange,4.4,2814,200,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,1,4500,20999
+POCO,F4 5G ,Black,4.3,12162,1734,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,4500,25999
+MOTOROLA,g22 ,Blue,3.8,30286,3530,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,4,5000,10999
+POCO,X5 Pro 5G ,Black,4.4,2043,250,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,5000,24999
+realme,10 Pro 5G ,Other,4.4,11122,898,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.07,2,5000,18999
+vivo,Y100 5G ,Yellow,4.3,149,14,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.21,3,4500,24999
+vivo,Y100 5G ,Blue,4.3,149,14,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.21,3,4500,24999
+Motorola,Edge 30 Pro ,Blue,4.0,1365,226,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.3,3,4800,40999
+Infinix,Zero 5G 2023 TURBO ,Black,4.0,357,68,8 GB RAM ,256 GB ROM,Expandable Upto 256 GB,Mediatek processor,17.22,3,5000,19999
+Tecno,Spark 9 ,Black,4.1,829,49,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.76,1,5000,9990
+Infinix,Note 12 ,Black,4.2,12607,1210,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.02,3,5000,12999
+vivo,Y21T ,Blue,4.4,1582,108,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,3,5000,15499
+SAMSUNG,Galaxy A23 5G ,Orange,4.3,97,5,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,2,5000,22999
+vivo,T1 5G ,Black,4.3,64691,5115,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,3,5000,15990
+oppo,A17K ,Yellow,4.5,1242,32,3 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Helio processor,16.66,1,5000,9699
+REDMI,A1+ ,Blue,4.1,682,50,2 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.56,1,5000,7499
+REDMI,Note 10T 5G ,Green,4.2,31846,2431,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.66,3,5000,14999
+IQOO,Neo 6 5G ,Other,4.4,1063,130,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.81,4,4700,29999
+itel,A49 ,Blue,4.2,612,34,2 GB RAM ,32 GB ROM,Expandable Upto 128 GB,Other processor,16.76,1,4000,5699
+itel,A49 ,Other,4.2,612,34,2 GB RAM ,32 GB ROM,Expandable Upto 128 GB,Other processor,16.76,1,4000,5699
+SAMSUNG,GALAXY M13 ,Blue,4.2,2645,169,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,6000,10888
+Infinix,Smart 6 ,Other,4.3,30592,2093,2 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.76,2,5000,7499
+OPPO,A78 5G ,Blue,4.3,38,3,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.66,1,5000,19190
+Infinix,Smart 6 ,Other,4.3,30592,2093,2 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.76,2,5000,7499
+Micromax,IN 2B ,Blue,3.9,22380,3409,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Other processor,16.56,2,5000,6999
+REDMI,11 Prime 5G ,Silver,4.2,272,18,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,1,5000,17999
+itel,Vision 3 ,Black,4.1,531,54,3 GB RAM ,64 GB ROM,Expandable Upto 128 GB,Unisoc processor,16.76,1,5000,6799
+REDMI,9 Activ ,Black,4.2,9882,681,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,9200
+REDMI,Note 11S ,White,4.2,1141,101,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,1,5000,17190
+SAMSUNG,Galaxy A04e ,Blue,4.4,19,2,3 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,2,5000,9999
+Tecno,Spark 8 Pro ,Black,4.3,147,14,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.27,1,5000,9750
+realme,Narzo 50A Prime ,Black,3.9,281,17,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,11978
+realme,9 Pro 5G ,Green,4.3,14546,1168,8 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Qualcomm processor,16.76,3,5000,20999
+REDMI,9 Activ ,Black,4.2,5167,342,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,2,5000,11499
+REDMI,Note 11 ,Blue,4.3,1060,89,6 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,1,5000,12740
+REDMI,Note 12 Pro+ 5G ,Blue,4.3,6165,721,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.94,3,4980,29999
+SAMSUNG,Galaxy S21 FE 5G ,Other,4.4,37534,3687,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.26,3,4500,34999
+vivo,Y33T ,Yellow,4.4,2601,182,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,3,5000,16650
+Infinix,Zero 20 ,Yellow,4.2,1761,250,8 GB RAM ,128 GB ROM,Expandable Upto 2 TB,Mediatek processor,17.02,0,4500,16999
+vivo,Y21G ,Silver,4.3,2168,165,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,2,5000,13499
+SAMSUNG,Galaxy S23 5G ,Black,4.6,439,82,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,15.49,3,3900,79999
+OPPO,F21s Pro 5G ,Yellow,4.1,410,29,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,4,4500,24680
+SAMSUNG,Galaxy A14 5G ,Red,3.9,271,21,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,2,5000,18999
+realme,Narzo 50i ,Green,4.5,122536,4895,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Other processor,16.51,1,5000,7142
+SAMSUNG,Galaxy A14 5G ,Green,3.9,271,21,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,2,5000,18999
+REDMI,Note 9 ,Grey,4.3,6616,441,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,4,5020,14999
+Infinix,Note 12 TURBO ,Black,4.2,7942,994,8 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.02,3,5000,13999
+Infinix,Note 12 TURBO ,Blue,4.2,7942,994,8 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.02,3,5000,13999
+MOTOROLA,G60 ,Other,4.2,134019,13545,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.22,3,6000,15999
+OPPO,A55 ,Blue,4.3,854,69,4 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.54,3,5000,13999
+MOTOROLA,g82 5G,White,4.2,7515,954,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,19999
+realme,C31 ,Silver,4.4,62550,2962,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.56,3,5000,9999
+itel,A23S ,Blue,3.6,102,6,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,12.7,1,3020,4699
+POCO,M5 ,Black,4.3,3286,248,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,3,5000,10999
+REDMI,10 Prime ,Blue,4.2,12900,888,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Helio processor,16.51,4,6000,14999
+REDMI,10 Prime ,Black,4.2,12900,888,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Helio processor,16.51,4,6000,14999
+SAMSUNG,GALAXY M13 ,Green,4.2,2645,169,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,6000,11129
+POCO,M5 ,Yellow,4.3,3286,248,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.71,3,5000,10999
+OPPO,A57 ,Yellow,4.4,2283,110,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.66,2,5000,13999
+itel,A49 ,Blue,4.2,612,34,2 GB RAM ,32 GB ROM,Expandable Upto 128 GB,Other processor,16.76,1,4000,5699
+REDMI,9i ,Black,4.3,577732,33897,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,1,5000,7499
+OnePlus,10R ,Black,4.4,128,12,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,1,5000,33999
+realme,9 5G ,White,4.5,39024,2211,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,3,5000,15999
+realme,9 5G ,White,4.4,48745,3155,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,3,5000,17499
+realme,9 5G ,Black,4.5,39024,2211,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,3,5000,15999
+realme,9 5G ,Black,4.5,39024,2211,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,3,5000,15999
+REDMI,Note 12 Pro+ 5G ,White,4.3,6165,721,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.94,3,4980,29999
+SAMSUNG,Galaxy A13 ,Green,4.1,762,49,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,4,5000,15999
+realme,C21 ,Black,4.4,147456,7085,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,3,5000,10499
+realme,C21 ,Blue,4.4,71775,3909,3 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,3,5000,9499
+realme,C21 ,Black,4.4,71775,3909,3 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,3,5000,9499
+SAMSUNG,Galaxy S23 Plus 5G ,Other,4.4,36,10,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,4700,94999
+REDMI,Note 10S ,White,4.2,7483,688,8 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.33,4,5000,16499
+REDMI,Note 10 Pro ,Other,4.3,42468,3969,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Qualcomm processor,16.94,4,5020,17999
+realme,8 5G ,Black,4.4,70017,5723,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,3,5000,18499
+POCO,F4 5G ,Black,4.3,2873,412,12 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,4500,29999
+Micromax,IN Note 1 ,White,4.1,49245,8220,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.94,4,5000,11499
+MOTOROLA,Edge 30 Fusion ,Grey,4.3,2744,473,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,3,4400,39999
+realme,8i ,Other,4.5,172913,10840,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.76,3,5000,13999
+realme,Narzo 50A Prime ,Blue,3.9,277,17,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,12500
+OPPO,A55 ,Green,4.3,853,69,4 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.54,3,5000,13999
+SAMSUNG,Galaxy S21 FE 5G ,White,4.4,37451,3677,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.26,3,4500,34999
+SAMSUNG,Galaxy S21 FE 5G ,Other,4.4,37451,3677,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.26,3,4500,34999
+realme,9i ,Blue,4.5,125864,7469,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,13499
+realme,9i ,Black,4.5,125878,7469,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,13499
+MOTOROLA,g42 ,Green,4.2,6039,666,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.43,3,5000,13999
+MOTOROLA,E7 Power ,Blue,4.1,83897,7439,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,2,5000,8999
+Infinix,Zero 20 ,Other,4.2,1761,250,8 GB RAM ,128 GB ROM,Expandable Upto 2 TB,Mediatek processor,17.02,0,4500,16999
+IQOO,Neo 6 5G ,Other,4.4,429,56,12 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.81,4,4700,34000
+LAVA,Z1s ,Blue,3.2,408,35,2 GB RAM ,16 GB ROM,Expandable Upto 256 GB,Unisoc processor,12.7,1,3100,4699
+realme,9 5G ,Blue,4.5,39024,2211,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,3,5000,15999
+REDMI,Note 9 ,Black,4.3,6616,441,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,4,5020,14999
+realme,C31 ,Silver,4.5,46856,1851,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.56,3,5000,9299
+Redmi,10 Prime ,Black,3.9,19,1,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.51,1,6000,16999
+MOTOROLA,g42 ,Other,4.2,6039,666,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.43,3,5000,13999
+REDMI,Note 11T 5G ,White,4.3,3113,258,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,19200
+Tecno,POVA 4 ,Blue,4.2,110,15,8 GB RAM ,128 GB ROM,Expandable Upto 2 TB,Mediatek processor,17.32,1,6000,13949
+itel,Vision 3 ,Green,4.1,531,54,3 GB RAM ,64 GB ROM,Expandable Upto 128 GB,Unisoc processor,16.76,1,5000,6911
+SAMSUNG,Galaxy S23 5G ,Green,4.6,439,82,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,15.49,3,3900,79999
+SAMSUNG,Galaxy A23 ,Other,4.2,859,59,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,1,5000,18499
+MOTOROLA,e40 ,Red,4.2,72662,6836,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,3,5000,8499
+REDMI,11 Prime 5G ,Green,4.2,1467,97,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,1,5000,13773
+realme,9 Pro 5G ,Blue,4.4,82314,6887,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Qualcomm processor,16.76,3,5000,18999
+realme,9 Pro 5G ,Black,4.4,82314,6887,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Qualcomm processor,16.76,3,5000,18999
+SAMSUNG,Galaxy M32 ,Blue,4.2,4321,379,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.26,1,6000,15490
+SAMSUNG,Galaxy S21 FE 5G ,Other,4.4,37534,3687,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.26,3,4500,34999
+Nokia,C01 Plus ,Blue,3.8,4453,384,2 GB RAM ,16 GB ROM,Expandable Upto 1 TB,Unisoc processor,13.84,1,3000,5499
+Infinix,Smart 5A ,Black,4.3,78936,5382,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.56,2,5000,7199
+Infinix,Smart 5A ,Other,4.3,78936,5382,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.56,2,5000,7199
+OPPO,K10 ,Blue,4.4,105276,7689,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.74,3,5000,13990
+vivo,Y21A ,Silver,4.3,1872,140,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.54,1,5000,12989
+OPPO,K10 ,Black,4.4,105276,7689,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.74,3,5000,13990
+Infinix,Hot 11 ,Silver,4.3,16177,1379,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.76,2,5200,9999
+Infinix,Zero 20 ,Green,4.2,1761,250,8 GB RAM ,128 GB ROM,Expandable Upto 2 TB,Mediatek processor,17.02,0,4500,16999
+REDMI,11 Prime ,Black,4.2,93,8,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,1,5000,11320
+itel,A23S ,Blue,3.6,102,6,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,12.7,1,3020,4699
+REDMI,11 Prime ,Green,4.0,45,3,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,1,5000,13570
+POCO,M4 Pro 5G ,Black,4.2,13556,1097,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.76,2,5000,18999
+SAMSUNG,Galaxy A04 ,Other,3.9,16,2,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,2,5000,12999
+SAMSUNG,GALAXY M13 5G ,Brown,4.0,324,17,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.51,1,5000,12537
+OPPO,Reno8 5G ,Black,4.3,35154,4477,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.33,3,4500,29999
+OPPO,Reno8 5G ,Yellow,4.3,35154,4477,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.33,3,4500,29999
+OPPO,F21s Pro 5G ,Black,4.1,410,29,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,3,4500,24880
+realme,8 ,Silver,4.4,121813,9946,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.26,4,5000,16999
+Redmi,9 ,Orange,4.2,26945,1531,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.59,2,5000,10408
+realme,9i ,Blue,4.5,26545,1576,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,15999
+Tecno,Spark Go 2022 ,Blue,4.3,835,57,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Helio processor,16.66,1,5000,6865
+Tecno,Spark 8 ,Blue,4.1,931,62,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.66,1,5000,9449
+realme,Narzo 50A ,Blue,4.4,339834,22033,4 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,3,6000,12499
+realme,C25_Y ,Grey,4.5,46952,2235,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,3,5000,11999
+REDMI,Note 10T 5G ,White,4.3,45027,3249,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.66,3,5000,12999
+Infinix,Smart 5A ,Blue,4.3,78936,5382,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.56,2,5000,7199
+realme,C21Y ,Black,4.5,254496,9532,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.51,3,5000,10499
+realme,C21Y ,Blue,4.5,254496,9532,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.51,3,5000,10499
+MOTOROLA,G60 ,Other,4.2,134019,13545,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.27,3,6000,15999
+Redmi,7A ,Yellow,4.3,389006,28121,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Qualcomm processor,13.84,1,4000,6999
+SAMSUNG,Galaxy M32 Prime Edition ,Black,4.3,271,23,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.26,1,6000,12848
+vivo,Y21T ,White,4.4,1582,108,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,3,5000,15499
+Tecno,Pova Neo ,Blue,4.1,763,56,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Helio processor,17.27,1,6000,10799
+REDMI,9 Activ ,Other,4.2,9877,681,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,9499
+REDMI,Note 10S ,Blue,4.2,7483,688,8 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.33,4,5000,16499
+IQOO,Neo 6 5G ,Other,4.4,1063,130,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.81,1,4700,30499
+Tecno,Spark Go 2022 ,Silver,4.3,835,57,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Helio processor,16.66,1,5000,6899
+SAMSUNG,Galaxy S23 5G ,Other,4.6,405,75,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,15.49,3,3900,79999
+realme,narzo 50 5G ,Black,4.3,50,2,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,14880
+IQOO,Neo 6 5G ,Other,4.4,429,56,12 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.81,1,4700,33499
+Redmi,9A ,Black,4.3,21567,1289,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,7700
+Redmi,9A ,Green,4.3,21567,1289,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,7450
+realme,9 Pro+ 5G ,Black,4.4,30118,3336,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,3,4500,26999
+IQOO,Z6 44W ,Black,4.2,958,67,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.36,1,5000,16399
+SAMSUNG,GALAXY M13 5G ,Brown,4.1,851,54,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.51,1,5000,14789
+REDMI,10A SPORT ,Black,4.0,859,55,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,10990
+realme,8 ,Black,4.4,121813,9946,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.26,4,5000,16999
+Google,Pixel 7 ,Black,4.4,2875,447,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Google Tensor processor,16.0,2,4270,56999
+Google,Pixel 7 ,Other,4.4,2875,447,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Google Tensor processor,16.0,2,4270,56999
+Google,Pixel 7 ,Other,4.4,2875,447,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Google Tensor processor,16.0,2,4270,56999
+SAMSUNG,Galaxy A04 ,Green,3.9,16,2,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,2,5000,12999
+realme,50A Prime ,Blue,3.9,36,2,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Qualcomm processor,16.76,1,5000,10837
+REDMI,K50i ,Silver,4.3,339,47,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5080,25949
+Infinix,Hot 11 ,Green,4.3,16177,1379,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.76,2,5200,9999
+realme,C21Y ,Black,4.6,90584,3087,3 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.51,3,5000,9499
+realme,C21Y ,Blue,4.6,90584,3087,3 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.51,3,5000,9499
+REDMI,Note 11 Pro ,Black,4.2,1213,88,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,1,5000,18999
+SAMSUNG,Galaxy M53 5G ,Blue,3.7,116,14,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,1,5000,29990
+vivo,Y33T ,Black,4.4,2601,182,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,3,5000,17099
+REDMI,Note 11 ,White,4.3,1060,89,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,1,5000,18999
+vivo,Y75 ,Other,4.3,2007,152,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.36,3,4050,19399
+realme,Narzo 30 ,Blue,4.3,76575,6059,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,3,5000,15499
+ASUS,ROG 5s ,Black,4.2,975,140,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.22,3,6000,39999
+REDMI,11 Prime ,Other,4.2,93,8,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,1,5000,11430
+realme,C25s ,Grey,4.4,50843,2940,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,3,6000,10990
+realme,9 5G SE ,Other,4.3,2524,232,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,22999
+realme,9 5G SE ,Other,4.3,2524,232,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,22999
+OPPO,A17k ,Blue,4.5,1242,32,3 GB RAM ,64 GB ROM,Expandable Upto 2 TB,Mediatek processor,16.66,1,5000,9999
+Tecno,Camon 19 ,Green,4.2,284,26,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.27,2,5000,14699
+SAMSUNG,Galaxy F22 ,Black,4.3,65683,6023,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,4,6000,13499
+SAMSUNG,Galaxy A73 5G ,Other,4.2,1432,189,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,4,5000,41999
+Google,Pixel 7 Pro ,Other,4.4,1870,323,12 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Google Tensor processor,17.02,3,4926,80999
+realme,8 5G ,Blue,4.3,75924,6015,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,3,5000,16499
+Google,Pixel 7 Pro ,Black,4.4,1870,323,12 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Google Tensor processor,17.02,3,4926,80999
+REDMI,9i ,Blue,4.3,577732,33897,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,1,5000,7499
+REDMI,Note 10S ,Black,4.2,7487,688,8 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.33,4,5000,16499
+realme,9 Pro+ 5G ,Black,4.4,30120,3336,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,3,4500,28999
+realme,9 Pro+ 5G ,Green,4.4,30120,3336,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,3,4500,26999
+realme,C25_Y ,Blue,4.5,46952,2235,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.51,3,5000,10999
+Nokia,C01 Plus ,Blue,3.8,4453,384,2 GB RAM ,32 GB ROM,Expandable Upto 128 GB,Unisoc processor,13.84,1,3000,5999
+MOTOROLA,G40 Fusion ,Other,4.2,32958,3702,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.22,3,6000,14499
+Infinix,Smart 6 Plus ,Blue,4.3,11853,847,3 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.32,2,5000,8299
+Tecno,Spark 8C ,Black,4.2,459,35,3 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.76,1,5000,8199
+SAMSUNG,Galaxy A53 ,Black,4.1,1402,159,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.51,4,5000,33499
+OPPO,A16E ,Blue,4.3,771,33,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.56,1,4230,9990
+Redmi,7A ,Black,4.3,389006,28121,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Qualcomm processor,13.84,1,4000,6999
+vivo,V21 5G ,Blue,4.3,17203,1708,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.36,3,4000,27990
+vivo,Y53s ,Blue,4.3,19076,1616,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.71,3,5000,15490
+Tecno,Spark 9 ,Other,4.2,472,28,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.76,1,5000,8739
+SAMSUNG,Galaxy A53 ,Blue,4.1,1402,159,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.51,4,5000,33499
+MOTOROLA,G40 Fusion ,Other,4.2,32958,3702,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.22,3,6000,14499
+SAMSUNG,Galaxy F12 ,Green,4.3,298398,23481,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Exynos processor,16.55,4,6000,10499
+REDMI,K50i ,Blue,4.3,339,47,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5080,26449
+REDMI,A1+ ,Green,4.1,682,50,2 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.56,1,5000,7499
+Nokia,C01 Plus ,Grey,3.8,4453,384,2 GB RAM ,16 GB ROM,Expandable Upto 1 TB,Unisoc processor,13.84,1,3000,5499
+SAMSUNG,Galaxy Z Flip3 5G ,Other,4.4,1981,156,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,2,3300,49999
+SAMSUNG,GALAXY M13 5G ,Blue,4.1,851,54,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.51,1,5000,14738
+SAMSUNG,Galaxy A73 5G ,Other,4.2,1432,189,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,4,5000,44999
+REDMI,K50i ,Silver,4.1,404,32,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5080,23770
+realme,8i ,Black,4.5,172913,10840,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.76,3,5000,13999
+Infinix,Note 11s ,Blue,4.3,12012,1583,6 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.65,3,5000,13999
+REDMI,9 Activ ,Other,4.2,5167,342,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,2,5000,11499
+Tecno,Spark 8C ,Blue,4.2,459,35,3 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.76,1,5000,9390
+Tecno,Spark 8C ,Other,4.3,108,10,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Unisoc processor,16.76,1,5000,8799
+OPPO,F21s Pro ,Black,4.2,262,17,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,3,4500,21999
+Redmi,9A Sport ,Green,4.1,25299,1894,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.59,1,5000,7199
+realme,Narzo 30 Pro 5G ,Silver,4.3,28479,2666,8 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,3,5000,19999
+realme,C25s ,Grey,4.4,50843,2940,4 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,3,6000,11999
+SAMSUNG,Galaxy M13 ,Green,4.2,457,29,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,6000,14380
+REDMI,11 Prime ,Green,4.2,93,8,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,1,5000,11999
+realme,GT Master Edition ,White,4.3,61695,6569,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,3,4300,27999
+Tecno,Spark 8C ,Grey,4.2,459,35,3 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,8235
+SAMSUNG,Galaxy F22 ,Blue,4.3,65683,6023,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,4,6000,13499
+Infinix,Smart 6 Plus ,Black,4.3,11853,847,3 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.32,2,5000,8299
+realme,C31 ,Green,4.5,46856,1851,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.56,3,5000,9299
+LAVA,Z2 ,Red,4.1,340,56,3 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.55,2,5000,7999
+SAMSUNG,Galaxy Z Flip3 5G ,Black,4.4,1981,156,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,2,3300,49999
+POCO,X3 Pro ,Black,4.4,136128,12157,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,4,5160,23999
+vivo,Y33T ,Other,4.4,2601,182,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,3,5000,17989
+vivo,V23 Pro 5G ,Yellow,4.3,3791,408,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.66,3,4300,38990
+OPPO,A57 ,Green,4.4,2283,110,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.66,2,5000,13999
+SAMSUNG,GALAXY M13 5G ,Green,4.1,851,54,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.51,1,5000,14989
+REDMI,Note 11 Pro ,White,4.2,1213,88,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,1,5000,22979
+realme,9 ,Yellow,4.4,25228,1913,8 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Qualcomm processor,16.26,3,5000,17999
+realme,9 ,White,4.4,62128,4503,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Qualcomm processor,16.26,3,5000,16999
+realme,9 ,Black,4.4,25228,1913,8 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Qualcomm processor,16.26,3,5000,17999
+Infinix,Note 11s ,Grey,4.3,12012,1583,6 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.65,3,5000,13999
+MOTOROLA,G40 Fusion ,Other,4.2,56533,6076,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.22,3,6000,16499
+POCO,M2 Pro ,Blue,4.4,350863,33195,6 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Qualcomm processor,16.94,4,5000,17999
+SAMSUNG,Galaxy M32 Prime Edition ,Blue,4.3,271,23,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.26,1,6000,11570
+SAMSUNG,Galaxy A04s ,Black,4.2,31,2,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Exynos processor,16.51,4,5000,13499
+Tecno,Pop 6 Pro ,Black,4.3,174,12,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.66,1,5000,6899
+Xiaomi,11Lite NE ,Silver,4.2,3388,386,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,3,4250,20990
+realme,GT Master Edition ,Black,4.3,61695,6569,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,3,4300,27999
+vivo,Y21G ,Blue,4.3,2168,165,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,2,5000,12895
+MOTOROLA,g31 ,Grey,4.1,13922,1442,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,3,5000,10999
+Redmi,9 ,Blue,4.2,26945,1531,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.59,2,5000,10450
+SAMSUNG,Galaxy A13 ,Other,4.1,762,49,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,4,5000,14999
+Google,Pixel 7 Pro ,Other,4.4,1870,323,12 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Google Tensor processor,17.02,3,4926,80999
+Motorola,Edge 30 Pro ,White,4.0,1365,226,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.3,3,4800,40999
+Nokia,C01 Plus ,Grey,3.8,4453,384,2 GB RAM ,32 GB ROM,Expandable Upto 128 GB,Unisoc processor,13.84,1,3000,5999
+OPPO,A16E ,White,4.3,771,33,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.56,1,4230,9990
+SAMSUNG,Galaxy A23 ,Black,4.2,859,59,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,1,5000,18499
+vivo,Y16 ,Black,4.3,1566,92,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,2,5000,10350
+realme,Narzo 50i ,Black,4.5,122536,4895,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Other processor,16.51,1,5000,7160
+realme,Narzo 50i ,Black,4.3,62344,3497,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Other processor,16.51,1,5000,8999
+Infinix,Hot 11 2022 ,Black,4.2,17231,1402,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,17.02,2,5000,9999
+SAMSUNG,Galaxy A23 5G ,Blue,4.3,97,5,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,2,5000,22999
+realme,9 Pro+ 5G ,Blue,4.4,31409,3820,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,3,4500,24999
+realme,9 Pro+ 5G ,Blue,4.4,30120,3336,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,3,4500,28999
+SAMSUNG,Galaxy M04 ,Green,4.2,508,39,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,0,5000,10482
+OPPO,A78 5G ,Black,4.3,38,3,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.66,1,5000,19340
+SAMSUNG,Galaxy A13 ,Blue,4.1,339,20,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,4,5000,16999
+vivo,X80 ,Blue,4.5,757,146,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.22,3,4500,54999
+POCO,M3 Pro 5G ,Black,4.3,63515,4903,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,3,5000,15999
+itel,Vision3 Turbo ,Blue,3.1,9,1,3 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,7100
+Infinix,Note 11s Free Fire Edition ,Grey,4.2,7608,999,8 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.65,3,5000,15999
+Infinix,Note 11s Free Fire Edition ,Green,4.2,7608,999,8 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.65,3,5000,15999
+realme,8i ,Black,4.4,70123,4883,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.76,3,5000,15999
+Infinix,Hot 11S ,Black,4.3,49517,5270,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,17.22,3,5000,10999
+SAMSUNG,Galaxy A13 ,Other,4.1,339,20,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,4,5000,16999
+vivo,Y15c ,Blue,4.2,1174,84,3 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.54,2,5000,9499
+Infinix,Note 11 ,Black,4.2,10863,1258,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.02,3,5000,14499
+realme,C31 ,Green,4.4,62550,2962,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,16.56,3,5000,9999
+SAMSUNG,Galaxy A33 ,Other,4.2,855,94,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.26,4,5000,27499
+Mi,11 Lite ,Other,4.2,6029,612,8 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Qualcomm processor,16.64,3,4250,20990
+SAMSUNG,Galaxy F22 ,Blue,4.3,103077,9884,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.26,4,6000,11499
+realme,9i ,Black,4.5,26545,1576,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,5000,15999
+SAMSUNG,Galaxy F12 ,Blue,4.3,298398,23481,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Exynos processor,16.55,4,6000,10499
+REDMI,Note 11 Pro ,Blue,4.2,1213,88,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,1,5000,21999
+realme,narzo 50 5G ,Black,4.3,50,2,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,16999
+realme,narzo 50 5G ,Blue,4.3,50,2,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,16799
+Redmi,Note 11S ,Black,4.2,787,54,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,1,5000,16990
+REDMI,Note 10 lite ,White,4.3,531,36,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,1,5018,14989
+POCO,F3 GT 5G ,Black,4.3,4712,760,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.94,3,5065,32999
+REDMI,Note 11T 5G ,Black,4.3,3113,258,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,1,5000,19100
+SAMSUNG,Galaxy A04e ,Other,4.4,19,2,3 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,2,5000,9999
+realme,GT Master Edition ,Black,4.3,61695,6569,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.33,3,4300,29999
+POCO,M3 Pro 5G ,Yellow,4.2,53648,4504,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,3,5000,17999
+Tecno,Pop 5 Pro ,Blue,4.2,441,33,3 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Helio processor,16.56,1,6000,7399
+MOTOROLA,Edge 30 Fusion ,Yellow,4.3,2744,473,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.64,3,4400,39999
+POCO,M2 Pro ,Green,4.4,350863,33195,6 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Qualcomm processor,16.94,4,5000,19999
+POCO,X3 Pro ,Blue,4.3,56178,5260,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,4,5160,25999
+OPPO,A55 ,Black,4.3,854,69,4 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.54,3,5000,13999
+SAMSUNG,Galaxy A13 ,Blue,4.1,762,49,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,4,5000,14999
+realme,GT Neo 3 (150W - Thor Limited Edition) ,Blue,4.3,21,3,12 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Mediatek processor,17.02,3,4500,42999
+realme,6 Pro ,Orange,4.4,61051,6544,6 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Other processor,16.76,4,4300,17999
+Redmi,Note 11 PRO Plus 5G ,White,4.2,2957,265,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,1,5000,21995
+Mi,11X Pro 5G ,Silver,4.0,450,34,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,4520,29999
+SAMSUNG,Galaxy S20 FE 5G ,Other,4.0,160,16,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.51,1,4500,30990
+SAMSUNG,Galaxy A13 ,Black,4.1,762,49,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,4,5000,15499
+Infinix,Hot 11S ,Black,4.3,49517,5270,4 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,17.22,3,5000,11999
+Infinix,Hot 11S ,Green,4.3,49517,5270,4 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,17.22,3,5000,11999
+Infinix,Hot 11S ,Silver,4.3,49517,5270,4 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,17.22,3,5000,11999
+POCO,C3 ,Blue,4.3,398908,26497,3 GB RAM ,32 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,3,5000,9999
+SAMSUNG,Galaxy F12 ,Blue,4.3,298398,23481,4 GB RAM ,128 GB ROM,Expandable Upto 512 GB,Exynos processor,16.55,4,6000,11499
+vivo,Y22 ,Blue,4.3,736,44,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.64,2,5000,16399
+POCO,M2 Reloaded ,Blue,4.3,67040,4600,4 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,16.59,4,5000,11999
+realme,C21 ,Blue,4.4,147456,7085,4 GB RAM ,64 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,3,5000,10499
+Infinix,Smart 6 Plus ,Other,4.3,11853,847,3 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Mediatek processor,17.32,2,5000,8299
+realme,Narzo 30 ,Silver,4.3,76575,6059,6 GB RAM ,128 GB ROM,Expandable Upto 256 GB,Mediatek processor,16.51,3,5000,15499
+SAMSUNG,Galaxy A73 5G ,Other,4.2,1432,189,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,17.02,4,5000,48990
+OPPO,A12 ,Blue,4.4,75179,4519,3 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Mediatek processor,15.8,2,4230,9990
+SAMSUNG,Galaxy A13 ,Green,4.1,762,49,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Exynos processor,16.76,4,5000,14999
+SAMSUNG,Galaxy S23 Plus 5G ,Black,4.4,38,10,8 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,4700,94999
+Infinix,Smart HD 2021 ,Blue,4.3,66429,4303,2 GB RAM ,32 GB ROM,Expandable Upto 256 GB,Mediatek processor,15.49,1,5000,6499
+POCO,X2 ,Blue,4.5,271215,28994,6 GB RAM ,64 GB ROM,Expandable Upto 512 GB,Qualcomm processor,16.94,4,4500,17999
+MOTOROLA,Edge 30 Ultra ,Black,4.3,319,74,12 GB RAM ,256 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.94,3,4610,59999
+IQOO,Z6 5G ,Black,4.2,719,51,6 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.71,1,5000,17489
+SAMSUNG,Galaxy S22 Plus 5G ,Black,4.5,2427,270,8 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.76,3,4500,59999
+Infinix,Kall Z5 ,Blue,3.0,1760,132,3 GB RAM ,16 GB ROM,Expandable Upto 1 TB,Qualcomm processor,13.84,1,3000,4699
+SAMSUNG,Galaxy A04e ,Blue,4.3,19,2,4 GB RAM ,128 GB ROM,Expandable Upto 1 TB,Mediatek processor,16.51,2,5000,11499
+Infinix,Hot 11 2022 ,Green,4.2,17231,1402,4 GB RAM ,64 GB ROM,Expandable Upto 1 TB,Unisoc processor,17.02,2,5000,9999
+REDMI,A1 ,Green,4.3,4641,230,2 GB RAM ,32 GB ROM,Expandable Upto 1 TB,Qualcomm processor,16.56,1,5000,6599
