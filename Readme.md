@@ -2,6 +2,8 @@
 <body>
 <h1>Smartphone Price Predictor</h1>
 <p>This is a machine learning project that predicts the price of a mobile phone based on its specifications. The data was scraped from the E-commerce website Flipkart, and the project is implemented on Streamlit.</p>
+<h2>You can check out the Deployed app here</h2>
+<p>[Link to the app](https://smartphone-price-predictions.onrender.com)</p>
 <h2>Installation</h2>
 <p>To run this project on your local machine, you need to install the following libraries:</p>
 <ul>
